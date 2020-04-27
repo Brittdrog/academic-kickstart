@@ -66,9 +66,9 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 ---
 
 The Drögemöller Lab uses large-scale genomic and computational analyses to guide the development of novel treatment strategies that offer maximum benefit and minimal harm. This research is focused specifically on vulnerable and understudied populations (e.g. pediatric and maternal populations) as therapeutic agents are often not designed and tested with these patients in mind. 
