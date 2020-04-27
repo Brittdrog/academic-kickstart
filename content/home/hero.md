@@ -53,6 +53,6 @@ hero_media = "hero-academic.png"
 
 **Welcome to the Drögemöller Lab**
 
-Our lab focuses on using genomics to develop safer and more effective treatments for vulnerable and understudied populations
+Our lab focuses on using genomics to develop safer and more effective treatments for pediatric and maternal populations
 
 <span style="text-shadow: none;"><a class="github-button" href="https://github.com/gcushen/hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
